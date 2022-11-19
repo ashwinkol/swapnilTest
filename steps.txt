@@ -3,7 +3,7 @@
 2) clone the repository
 git clone https://github.com/ashwinkol/swapnilTest.git
 
-3) git add fileName 
+3) git add fileName or git add . [here . means all the files]
 
 4) git commit -m "Message for that file"
 
