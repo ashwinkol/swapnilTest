@@ -1,0 +1,7 @@
+1 ) create git repository on git 
+
+2) clone the repository
+git clone https://github.com/ashwinkol/swapnilTest.git
+
+
+
